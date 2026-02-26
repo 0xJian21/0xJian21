@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jian Wei 👋 
 
-<!--
-**0xJian21/0xJian21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web3 & DeFi Engineer (Solana & EVM)**
 
-Here are some ideas to get you started:
+I am a bilingual (English & Mandarin) developer focused on decentralized finance, smart contracts, and building seamless Web3 experiences. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Currently Working On
+* **[PerpLens](https://perplens.com):** Building a PnL dashboard for Drift Protocol, optimized for delta-neutral trading strategies and cash-and-carry trades.
+
+### 🛠️ What Tools I Use
+* **Web3/Blockchain:** Solana, EVM, Smart Contract Development
+* **Languages & Tech:** TypeScript, Python, Java, C++
+
+* ### 📫 How to Reach Me
+* **X (Twitter):** [@0xJian21](https://x.com/0xJian21)
+* **LinkedIn:** [in/jianwei2102](https://www.linkedin.com/in/jianwei2102/)
+* **Telegram:** [@Jian21022](https://t.me/Jian21022)
